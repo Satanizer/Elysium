@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776076726080",
+    "project_id": "elysium-2febc",
+    "storage_bucket": "elysium-2febc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776076726080:android:12e7622ddedd0d2c14b4a5",
+        "android_client_info": {
+          "package_name": "com.audio_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWO9OP3chqQnGS7w2cqJ8TyixX5FIk4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
